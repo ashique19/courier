@@ -1,0 +1,5091 @@
+[
+    [
+    "ID" =>  1,
+    "NAME" =>  "Mohammadpur",
+    "NAME_BN" =>  "মোহাম্মদপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  2,
+    "NAME" =>  "Dhanmondi",
+    "NAME_BN" =>  "ধানমন্ডি",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  3,
+    "NAME" =>  "Gulshan",
+    "NAME_BN" =>  "গুলশান",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  5,
+    "NAME" =>  "Kallyanpur",
+    "NAME_BN" =>  "কল্যাণপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  6,
+    "NAME" =>  "Shyamoli",
+    "NAME_BN" =>  "শ্যামলী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  7,
+    "NAME" =>  "Adabor",
+    "NAME_BN" =>  "আদাবর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  8,
+    "NAME" =>  "Darussalam",
+    "NAME_BN" =>  "দারুসসালাম",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  9,
+    "NAME" =>  "Gabtoli",
+    "NAME_BN" =>  "গাবতলী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  10,
+    "NAME" =>  "Pallabi",
+    "NAME_BN" =>  "পল্লবী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  11,
+    "NAME" =>  "Lalmatia",
+    "NAME_BN" =>  "লালমাটিয়া",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  12,
+    "NAME" =>  "Mirpur DOHS",
+    "NAME_BN" =>  "মিরপুর ডিওএইচএস",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  13,
+    "NAME" =>  "Kochukhet",
+    "NAME_BN" =>  "কচুখেত",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  14,
+    "NAME" =>  "Gudaraghat",
+    "NAME_BN" =>  "গুদারাঘাট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  17,
+    "NAME" =>  "Agargaon",
+    "NAME_BN" =>  "আগারগাও",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  18,
+    "NAME" =>  "Monipur",
+    "NAME_BN" =>  "মণিপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  19,
+    "NAME" =>  "Sher-E-Bangla Nagar",
+    "NAME_BN" =>  "শের-এ-বাংলা নগর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  20,
+    "NAME" =>  "Ibrahimpur",
+    "NAME_BN" =>  "ইব্রাহীমপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  21,
+    "NAME" =>  "Dhaka Cantonment",
+    "NAME_BN" =>  "ঢাকা ক্যান্টনমেন্ট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  22,
+    "NAME" =>  "Mirpur Cantonment",
+    "NAME_BN" =>  "মিরপুর ক্যান্টনমেন্ট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  23,
+    "NAME" =>  "Kafrul",
+    "NAME_BN" =>  "কাফরুল",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  24,
+    "NAME" =>  "Vashantek",
+    "NAME_BN" =>  "ভাসানটেক",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  25,
+    "NAME" =>  "Manikdi",
+    "NAME_BN" =>  "মানিকদি",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  26,
+    "NAME" =>  "Matikata",
+    "NAME_BN" =>  "মাটিকাটা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  27,
+    "NAME" =>  "M.E.S",
+    "NAME_BN" =>  "এম.ই.এস",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  28,
+    "NAME" =>  "Rupnagar Residential Area",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  29,
+    "NAME" =>  "Duaripara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  30,
+    "NAME" =>  "Rainkhola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  31,
+    "NAME" =>  "Mirpur Diabari",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  32,
+    "NAME" =>  "Mazar Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  33,
+    "NAME" =>  "Shagufta",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  34,
+    "NAME" =>  "Bawnia",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  35,
+    "NAME" =>  "Baigertek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  36,
+    "NAME" =>  "Madina nagar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  37,
+    "NAME" =>  "Dewanpara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  39,
+    "NAME" =>  "Namapara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  40,
+    "NAME" =>  "Mastertek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  41,
+    "NAME" =>  "Balughat",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  42,
+    "NAME" =>  "Barontek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  43,
+    "NAME" =>  "Goltek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  44,
+    "NAME" =>  "Kurmitola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  45,
+    "NAME" =>  "Shewra",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  46,
+    "NAME" =>  "Uttara",
+    "NAME_BN" =>  "উত্তরা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  47,
+    "NAME" =>  "Uttarkhan",
+    "NAME_BN" =>  "উত্তরখান",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  48,
+    "NAME" =>  "Dakshinkhan",
+    "NAME_BN" =>  "দক্ষিণখান",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  49,
+    "NAME" =>  "Fayedabad",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  50,
+    "NAME" =>  "Ashkona",
+    "NAME_BN" =>  "আশকোনা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  51,
+    "NAME" =>  "Kuril",
+    "NAME_BN" =>  "কুড়িল",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  53,
+    "NAME" =>  "Savar",
+    "NAME_BN" =>  "সাভার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  61,
+    "NAME" =>  "Savar Cantonment",
+    "NAME_BN" =>  "সাভার ক্যান্টনমেন্ট",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  63,
+    "NAME" =>  "Tongi",
+    "NAME_BN" =>  "টঙ্গী",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  66,
+    "NAME" =>  "Khilkhet",
+    "NAME_BN" =>  "খিলখেত",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  67,
+    "NAME" =>  "Nikunja",
+    "NAME_BN" =>  "নিকুঞ্জ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  68,
+    "NAME" =>  "Azampur",
+    "NAME_BN" =>  "আজমপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  69,
+    "NAME" =>  "Hajipara",
+    "NAME_BN" =>  "হাজীপাড়া",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  70,
+    "NAME" =>  "Kawla",
+    "NAME_BN" =>  "কাওলা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  71,
+    "NAME" =>  "Naddapara",
+    "NAME_BN" =>  "নদ্দাপারা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  72,
+    "NAME" =>  "Bashundhara R/A",
+    "NAME_BN" =>  "বাসুন্ধরা আবাসিক এলাকা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  73,
+    "NAME" =>  "Vatara",
+    "NAME_BN" =>  "ভাটারা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  74,
+    "NAME" =>  "Nadda",
+    "NAME_BN" =>  "নদ্দা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  75,
+    "NAME" =>  "Baridhara",
+    "NAME_BN" =>  "বারিধারা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  76,
+    "NAME" =>  "Baridhara DOHS",
+    "NAME_BN" =>  "বারিধারা ডিওএইচএস",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  77,
+    "NAME" =>  "Notun Bazar",
+    "NAME_BN" =>  "নতুন বাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  78,
+    "NAME" =>  "Badda",
+    "NAME_BN" =>  "বাড্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  79,
+    "NAME" =>  "Shahjadpur",
+    "NAME_BN" =>  "শাহজাদপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  80,
+    "NAME" =>  "Uttor Badda",
+    "NAME_BN" =>  "উত্তর বাড্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  81,
+    "NAME" =>  "Middle Badda",
+    "NAME_BN" =>  "মধ্য বাড্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  82,
+    "NAME" =>  "South Badda",
+    "NAME_BN" =>  "দক্ষিণ বাড্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  83,
+    "NAME" =>  "Merul Badda",
+    "NAME_BN" =>  "মেরুল বাড্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  84,
+    "NAME" =>  "Niketon",
+    "NAME_BN" =>  "নিকেতন",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  85,
+    "NAME" =>  "Banani",
+    "NAME_BN" =>  "বনানী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  86,
+    "NAME" =>  "Banani DOHS",
+    "NAME_BN" =>  "বনানী ডিওএইচএস",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  87,
+    "NAME" =>  "Mohakhali",
+    "NAME_BN" =>  "মহাখালী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  88,
+    "NAME" =>  "Mohakhali DOHS",
+    "NAME_BN" =>  "মহাখালী ডিওএইচএস",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  89,
+    "NAME" =>  "South Monipur",
+    "NAME_BN" =>  "দক্ষিণ মনিপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  90,
+    "NAME" =>  "Shah Ali Bag",
+    "NAME_BN" =>  "শাহ আলী বাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  91,
+    "NAME" =>  "Aziz Palli",
+    "NAME_BN" =>  "আজিজ পল্লী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  92,
+    "NAME" =>  "Bashtola",
+    "NAME_BN" =>  "বাঁশতলা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  93,
+    "NAME" =>  "South Baridhara, DIT Project",
+    "NAME_BN" =>  "দক্ষিণ বারিধারা, ডিআইটি প্রোজেক্ট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  94,
+    "NAME" =>  "Aftabnagar",
+    "NAME_BN" =>  "আফতাবনগর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  95,
+    "NAME" =>  "Bijoy Shoroni",
+    "NAME_BN" =>  "বিজয়স্মরনি",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  96,
+    "NAME" =>  "Farmgate",
+    "NAME_BN" =>  "ফার্মগেট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  97,
+    "NAME" =>  "Indira Road",
+    "NAME_BN" =>  "ইন্দিরারোড",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  98,
+    "NAME" =>  "Tejgaon",
+    "NAME_BN" =>  "তেজগাঁও",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  99,
+    "NAME" =>  "Tejkunipara",
+    "NAME_BN" =>  "তেজকুনিপারা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  100,
+    "NAME" =>  "Razabazar",
+    "NAME_BN" =>  "রাজাবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  101,
+    "NAME" =>  "Sukrabad",
+    "NAME_BN" =>  "সুক্রাবাদ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  102,
+    "NAME" =>  "Panthopath",
+    "NAME_BN" =>  "পান্থপথ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  103,
+    "NAME" =>  "Kalabagan",
+    "NAME_BN" =>  "কলাবাগান",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  104,
+    "NAME" =>  "Green Road",
+    "NAME_BN" =>  "গ্রীনরোড",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  105,
+    "NAME" =>  "Manik Mia Avenue",
+    "NAME_BN" =>  "মানিক মিয়া এভিনিউ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  106,
+    "NAME" =>  "Asad Avenue",
+    "NAME_BN" =>  "আসাদ এভিনিউ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  107,
+    "NAME" =>  "West Dhanmondi",
+    "NAME_BN" =>  "পশ্চিম ধানমন্ডি",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  108,
+    "NAME" =>  "Shankar",
+    "NAME_BN" =>  "সংকর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  109,
+    "NAME" =>  "Rayer Bazar",
+    "NAME_BN" =>  "রায়েরবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  110,
+    "NAME" =>  "Tallabag",
+    "NAME_BN" =>  "তাল্লাবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  111,
+    "NAME" =>  "Hazaribag",
+    "NAME_BN" =>  "হাজারীবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  112,
+    "NAME" =>  "Pilkhana",
+    "NAME_BN" =>  "পিলখানা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  113,
+    "NAME" =>  "Nawabgonj puran dhaka",
+    "NAME_BN" =>  "নাওয়াবগজ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  114,
+    "NAME" =>  "New Market",
+    "NAME_BN" =>  "নিউ মার্কেট",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  115,
+    "NAME" =>  "Azimpur",
+    "NAME_BN" =>  "আজিমপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  116,
+    "NAME" =>  "Nilkhet",
+    "NAME_BN" =>  "নীলক্ষেত",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  117,
+    "NAME" =>  "Lalbagh",
+    "NAME_BN" =>  "লালবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  118,
+    "NAME" =>  "Chawkbazar",
+    "NAME_BN" =>  "চকবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  119,
+    "NAME" =>  "Naya Bazar",
+    "NAME_BN" =>  "নয়াবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  120,
+    "NAME" =>  "Tatibazar",
+    "NAME_BN" =>  "তাঁতিবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  121,
+    "NAME" =>  "Luxmi Bazar",
+    "NAME_BN" =>  "লক্ষ্মীবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  123,
+    "NAME" =>  "puran Dhaka",
+    "NAME_BN" =>  "পুরাণ ঢাকা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  124,
+    "NAME" =>  "Siddique Bazar",
+    "NAME_BN" =>  "সিদ্দিকবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  125,
+    "NAME" =>  "Tikatuly",
+    "NAME_BN" =>  "টিকাটুলি",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  126,
+    "NAME" =>  "Motijheel",
+    "NAME_BN" =>  "মতিঝিল",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  127,
+    "NAME" =>  "Nawabpur",
+    "NAME_BN" =>  "নওয়াবপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  128,
+    "NAME" =>  "Kaptan Bazar",
+    "NAME_BN" =>  "কাপ্তানবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  129,
+    "NAME" =>  "Gulistan",
+    "NAME_BN" =>  "গুলিস্তান",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  130,
+    "NAME" =>  "Bongo Bazar",
+    "NAME_BN" =>  "বঙ্গবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  131,
+    "NAME" =>  "Chankarpul",
+    "NAME_BN" =>  "চাঙ্কারপুল",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  132,
+    "NAME" =>  "Palashi",
+    "NAME_BN" =>  "পলাশী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  133,
+    "NAME" =>  "Dhakeshwari",
+    "NAME_BN" =>  "ঢাকেশ্বরী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  134,
+    "NAME" =>  "Kamalapur",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  135,
+    "NAME" =>  "Wari",
+    "NAME_BN" =>  "ওয়ারী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  136,
+    "NAME" =>  "Narinda",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  137,
+    "NAME" =>  "Dainik Bangla Mor",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  139,
+    "NAME" =>  "Fakirapul",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  140,
+    "NAME" =>  "Kakrail",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  141,
+    "NAME" =>  "Naya Paltan",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  142,
+    "NAME" =>  "Bijoynagar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  143,
+    "NAME" =>  "Press Club",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  144,
+    "NAME" =>  "High Court",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  145,
+    "NAME" =>  "Dhaka University",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  146,
+    "NAME" =>  "Dhaka Medical",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  147,
+    "NAME" =>  "Bongo Bondhu Avenue",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  148,
+    "NAME" =>  "Kazi Nazrul Islam Avenue",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  149,
+    "NAME" =>  "Kawran Bazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  150,
+    "NAME" =>  "Ramna",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  151,
+    "NAME" =>  "Shantinagar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  152,
+    "NAME" =>  "Shantibag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  153,
+    "NAME" =>  "Baily Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  154,
+    "NAME" =>  "Minto Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  155,
+    "NAME" =>  "Old Elephant Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  156,
+    "NAME" =>  "Eskaton Garden Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  157,
+    "NAME" =>  "Eskaton",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  158,
+    "NAME" =>  "Moghbazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  159,
+    "NAME" =>  "Mouchak",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  160,
+    "NAME" =>  "Malibag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  161,
+    "NAME" =>  "Rampura",
+    "NAME_BN" =>  "রামপুরা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  162,
+    "NAME" =>  "Shahbag",
+    "NAME_BN" =>  "শাহবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  163,
+    "NAME" =>  "Katabon",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  164,
+    "NAME" =>  "Hatirpool",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  165,
+    "NAME" =>  "Bashabo",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  166,
+    "NAME" =>  "Khilgaon",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  167,
+    "NAME" =>  "Middle Bashabo",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  168,
+    "NAME" =>  "Goran",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  169,
+    "NAME" =>  "Madartek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  170,
+    "NAME" =>  "Manik Nagar",
+    "NAME_BN" =>  "মানিকনগর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  171,
+    "NAME" =>  "Shahjahanpur",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  172,
+    "NAME" =>  "Banasree",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  173,
+    "NAME" =>  "Meradia",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  174,
+    "NAME" =>  "Khilbari Tek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  175,
+    "NAME" =>  "Bawaliapara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  177,
+    "NAME" =>  "Mughdapara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  178,
+    "NAME" =>  "Golapbag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  179,
+    "NAME" =>  "Jatrabari",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  181,
+    "NAME" =>  "Hatirjheel",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  182,
+    "NAME" =>  "Banglamotor",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  183,
+    "NAME" =>  "Paribag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  184,
+    "NAME" =>  "Bakshibazar",
+    "NAME_BN" =>  "বকশিবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  185,
+    "NAME" =>  "Elephant Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  186,
+    "NAME" =>  "Kathalbagan",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  187,
+    "NAME" =>  "Malibagh Taltola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  188,
+    "NAME" =>  "Central Road",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  189,
+    "NAME" =>  "Sabujbag",
+    "NAME_BN" =>  "সবুজবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  190,
+    "NAME" =>  "Shiddheswari",
+    "NAME_BN" =>  "সিদ্ধেশ্বরী",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  263,
+    "NAME" =>  "Dolaikhal",
+    "NAME_BN" =>  "দোলাইখাল",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  266,
+    "NAME" =>  "Shegunbagicha",
+    "NAME_BN" =>  "শেগুনবাগিচা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  267,
+    "NAME" =>  "Rajarbag",
+    "NAME_BN" =>  "রাজারবাগ",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  269,
+    "NAME" =>  "Babubazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  270,
+    "NAME" =>  "Islampur",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  271,
+    "NAME" =>  "Imamgonj",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  272,
+    "NAME" =>  "Nayabazar",
+    "NAME_BN" =>  "নয়াবাজার",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  273,
+    "NAME" =>  "Zigatola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  275,
+    "NAME" =>  "Kazipara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  276,
+    "NAME" =>  "Shewrapara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  277,
+    "NAME" =>  "Kalshi",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  278,
+    "NAME" =>  "Demra",
+    "NAME_BN" =>  "ডেমরা",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  282,
+    "NAME" =>  "Ashulia",
+    "NAME_BN" =>  "আশুলিয়া",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  283,
+    "NAME" =>  "Amin Bazar",
+    "NAME_BN" =>  "আমিন বাজার",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  284,
+    "NAME" =>  "Sutrapur",
+    "NAME_BN" =>  "সূত্রাপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  286,
+    "NAME" =>  "Kamrangichar",
+    "NAME_BN" =>  "Kamrangichar",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  288,
+    "NAME" =>  "Purana Paltan",
+    "NAME_BN" =>  "পুরানা পল্টন",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  292,
+    "NAME" =>  "Shyampur",
+    "NAME_BN" =>  "শ্যামপুর",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  296,
+    "NAME" =>  "Dholaipar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  305,
+    "NAME" =>  "Keranigonj",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  306,
+    "NAME" =>  "Monipuripara",
+    "NAME_BN" =>  "মনিপুরীপারা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  309,
+    "NAME" =>  "Bosila",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  313,
+    "NAME" =>  "Shonir Akhra",
+    "NAME_BN" =>  "শনির আখড়া",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  315,
+    "NAME" =>  "Mirpur",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  316,
+    "NAME" =>  "Bongshal",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  319,
+    "NAME" =>  "Siddweswari",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  323,
+    "NAME" =>  "Nakhalpara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  324,
+    "NAME" =>  "Dokshingaon",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  325,
+    "NAME" =>  "Joar Shahara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  326,
+    "NAME" =>  "Science Lab",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  327,
+    "NAME" =>  "Sobhanbag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  329,
+    "NAME" =>  "ECB Chattar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  334,
+    "NAME" =>  "Arambag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  346,
+    "NAME" =>  "Armanitola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  349,
+    "NAME" =>  "Islambag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  352,
+    "NAME" =>  "Kamarpara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  354,
+    "NAME" =>  "Mitford",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  355,
+    "NAME" =>  "Shakhari Bazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  356,
+    "NAME" =>  "Katherpol",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  357,
+    "NAME" =>  "Bangla Bazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  358,
+    "NAME" =>  "Patuatuly",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  359,
+    "NAME" =>  "Dohar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  365,
+    "NAME" =>  "Dhamrai",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  396,
+    "NAME" =>  "Nandipara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  397,
+    "NAME" =>  "Nazira Bazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  403,
+    "NAME" =>  "Gopibag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  404,
+    "NAME" =>  "Shwamibag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  405,
+    "NAME" =>  "Sayedabad",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  406,
+    "NAME" =>  "Sadarghat",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  407,
+    "NAME" =>  "Kaltabazar",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  408,
+    "NAME" =>  "Jurain",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  409,
+    "NAME" =>  "Gandaria",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  411,
+    "NAME" =>  "RayerBag",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  412,
+    "NAME" =>  "Faridabad",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  413,
+    "NAME" =>  "Matuail",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  414,
+    "NAME" =>  "Donia",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  415,
+    "NAME" =>  "Postogola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  417,
+    "NAME" =>  "Konapara",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  418,
+    "NAME" =>  "Dhaka Uddyan",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  426,
+    "NAME" =>  "Shekhertek",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  427,
+    "NAME" =>  "",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  446,
+    "NAME" =>  "Nawabgonj",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  448,
+    "NAME" =>  "CWH",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  449,
+    "NAME" =>  "Mirpur Taltola",
+    "NAME_BN" =>  "",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  638,
+    "NAME" =>  "Alfadanga",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  639,
+    "NAME" =>  "Bhanga",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  640,
+    "NAME" =>  "Boalmari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  641,
+    "NAME" =>  "Char Bhadrasan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  642,
+    "NAME" =>  "Faridpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  643,
+    "NAME" =>  "Madhukhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  644,
+    "NAME" =>  "Nagarkanda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  645,
+    "NAME" =>  "Sadarpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  646,
+    "NAME" =>  "Saltha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  647,
+    "NAME" =>  "Gazipur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  648,
+    "NAME" =>  "Kaliakoir",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  649,
+    "NAME" =>  "Kaliganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  650,
+    "NAME" =>  "Kapasia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  651,
+    "NAME" =>  "Sreepur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  652,
+    "NAME" =>  "Gopalganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  653,
+    "NAME" =>  "Kasiani",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  654,
+    "NAME" =>  "Kotalipara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  655,
+    "NAME" =>  "Maksudpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  656,
+    "NAME" =>  "Tungipara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  657,
+    "NAME" =>  "Bakshiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  658,
+    "NAME" =>  "Dewanganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  659,
+    "NAME" =>  "Islampur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  660,
+    "NAME" =>  "Jamalpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  661,
+    "NAME" =>  "Madarganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  662,
+    "NAME" =>  "Melandah",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  663,
+    "NAME" =>  "Sharishabari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  664,
+    "NAME" =>  "Austogram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  665,
+    "NAME" =>  "Bajitpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  666,
+    "NAME" =>  "Bhairab",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  667,
+    "NAME" =>  "Hosainpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  668,
+    "NAME" =>  "Itna",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  669,
+    "NAME" =>  "Karimganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  670,
+    "NAME" =>  "Katiadi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  671,
+    "NAME" =>  "Kishoreganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  672,
+    "NAME" =>  "Kuliarchar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  673,
+    "NAME" =>  "Mithamain",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  674,
+    "NAME" =>  "Nikli",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  675,
+    "NAME" =>  "Pakundia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  676,
+    "NAME" =>  "Tarail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  677,
+    "NAME" =>  "Kalkini",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  678,
+    "NAME" =>  "Madaripur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  679,
+    "NAME" =>  "Rajoir",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  680,
+    "NAME" =>  "Shibchar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  681,
+    "NAME" =>  "Daulatpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  682,
+    "NAME" =>  "Ghior",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  683,
+    "NAME" =>  "Harirampur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  684,
+    "NAME" =>  "Manikganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  685,
+    "NAME" =>  "Saturia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  686,
+    "NAME" =>  "Shibalaya",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  687,
+    "NAME" =>  "Singair",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  688,
+    "NAME" =>  "Gazaria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  689,
+    "NAME" =>  "Lauhajang",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  690,
+    "NAME" =>  "Munshiganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  691,
+    "NAME" =>  "Serajdikhan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  692,
+    "NAME" =>  "Sreenagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  693,
+    "NAME" =>  "Tangibari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  694,
+    "NAME" =>  "Bhaluka",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  695,
+    "NAME" =>  "Dhubaura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  696,
+    "NAME" =>  "Fulbaria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  697,
+    "NAME" =>  "Fulpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  698,
+    "NAME" =>  "Goffargaon",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  699,
+    "NAME" =>  "Gouripur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  700,
+    "NAME" =>  "Haluaghat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  701,
+    "NAME" =>  "Iswarganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  702,
+    "NAME" =>  "Mymensingh Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  703,
+    "NAME" =>  "Muktagacha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  704,
+    "NAME" =>  "Nandail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  705,
+    "NAME" =>  "Trishal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  706,
+    "NAME" =>  "Araihazar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  707,
+    "NAME" =>  "Bandar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  708,
+    "NAME" =>  "Narayanganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  709,
+    "NAME" =>  "Rupganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  710,
+    "NAME" =>  "Sonargaon",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  711,
+    "NAME" =>  "Belabo",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  712,
+    "NAME" =>  "Monohardi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  713,
+    "NAME" =>  "Norshingdi Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  714,
+    "NAME" =>  "Palash",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  715,
+    "NAME" =>  "Raipura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  716,
+    "NAME" =>  "Shibpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  717,
+    "NAME" =>  "Atpara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  718,
+    "NAME" =>  "Barhatta",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  719,
+    "NAME" =>  "Durgapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  720,
+    "NAME" =>  "Kalmakanda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  721,
+    "NAME" =>  "Kendua",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  722,
+    "NAME" =>  "Khaliajuri",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  723,
+    "NAME" =>  "Madan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  724,
+    "NAME" =>  "Mohanganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  725,
+    "NAME" =>  "Netrokona Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  726,
+    "NAME" =>  "Purbadhala",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  727,
+    "NAME" =>  "Baliakandi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  728,
+    "NAME" =>  "Goalunda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  729,
+    "NAME" =>  "Pangsha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  730,
+    "NAME" =>  "Rajbari Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  731,
+    "NAME" =>  "Kalukhale",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  732,
+    "NAME" =>  "Bhedarganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  733,
+    "NAME" =>  "Damudiya",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  734,
+    "NAME" =>  "Gosairhat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  735,
+    "NAME" =>  "Zajira",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  736,
+    "NAME" =>  "Naria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  737,
+    "NAME" =>  "Shariatpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  738,
+    "NAME" =>  "Jhenaigati",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  739,
+    "NAME" =>  "Nakla",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  740,
+    "NAME" =>  "Nalitabari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  741,
+    "NAME" =>  "Sherpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  742,
+    "NAME" =>  "Sribordi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  743,
+    "NAME" =>  "Bashail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  744,
+    "NAME" =>  "Bhuapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  745,
+    "NAME" =>  "Delduar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  746,
+    "NAME" =>  "Ghatail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  747,
+    "NAME" =>  "Gopalpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  748,
+    "NAME" =>  "Kalihati",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  749,
+    "NAME" =>  "Mirzapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  750,
+    "NAME" =>  "Modhupur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  751,
+    "NAME" =>  "Nagarpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  752,
+    "NAME" =>  "Shakhipur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  753,
+    "NAME" =>  "Tangail Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  754,
+    "NAME" =>  "Dhanbari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  755,
+    "NAME" =>  "Bagerhat Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  756,
+    "NAME" =>  "Chitalmari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  757,
+    "NAME" =>  "Fakirhat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  758,
+    "NAME" =>  "Kachua",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  759,
+    "NAME" =>  "Mollarhat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  760,
+    "NAME" =>  "Mongla",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  761,
+    "NAME" =>  "Morelganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  762,
+    "NAME" =>  "Rampal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  763,
+    "NAME" =>  "Sarankhola",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  764,
+    "NAME" =>  "Alamdanga",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  765,
+    "NAME" =>  "Chuadanga Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  766,
+    "NAME" =>  "Damurhuda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  767,
+    "NAME" =>  "Jibannagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  768,
+    "NAME" =>  "Noapara",
+    "NAME_BN" =>  "Noapara",
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  769,
+    "NAME" =>  "Bagherpara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  770,
+    "NAME" =>  "Chowgacha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  771,
+    "NAME" =>  "Jessore Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  772,
+    "NAME" =>  "Jhikargacha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  773,
+    "NAME" =>  "Keshabpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  774,
+    "NAME" =>  "Manirampur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  775,
+    "NAME" =>  "Sharsha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  776,
+    "NAME" =>  "Kotchandpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  777,
+    "NAME" =>  "Harinakunda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  778,
+    "NAME" =>  "Jhenaidah Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  779,
+    "NAME" =>  "Kaliganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  780,
+    "NAME" =>  "Moheshpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  781,
+    "NAME" =>  "Shailkupa",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  782,
+    "NAME" =>  "Batiaghata",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  783,
+    "NAME" =>  "Dacope",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  784,
+    "NAME" =>  "Dighalia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  785,
+    "NAME" =>  "Dumuria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  786,
+    "NAME" =>  "Phultala",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  787,
+    "NAME" =>  "Koira",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  788,
+    "NAME" =>  "Paikgacha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  789,
+    "NAME" =>  "Rupsa",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  790,
+    "NAME" =>  "Khalispur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  791,
+    "NAME" =>  "Sonadanga",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  792,
+    "NAME" =>  "Khan jahan ali ",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  793,
+    "NAME" =>  "Doulatpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  794,
+    "NAME" =>  "Terokhada",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  795,
+    "NAME" =>  "Bheramara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  796,
+    "NAME" =>  "Daulatpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  797,
+    "NAME" =>  "Khoksha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  798,
+    "NAME" =>  "Kumarkhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  799,
+    "NAME" =>  "Kushtia Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  800,
+    "NAME" =>  "Mirpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  801,
+    "NAME" =>  "Magura Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  802,
+    "NAME" =>  "Mohammadpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  803,
+    "NAME" =>  "Shalikha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  804,
+    "NAME" =>  "Sreepur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  805,
+    "NAME" =>  "Gangni",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  806,
+    "NAME" =>  "Meherpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  807,
+    "NAME" =>  "Mujibnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  808,
+    "NAME" =>  "Kalia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  809,
+    "NAME" =>  "Lohagara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  810,
+    "NAME" =>  "Narail Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  811,
+    "NAME" =>  "Assasuni",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  812,
+    "NAME" =>  "Debhata",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  813,
+    "NAME" =>  "Kaliganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  814,
+    "NAME" =>  "Kolaroa",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  815,
+    "NAME" =>  "Satkhira Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  816,
+    "NAME" =>  "Shyamnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  817,
+    "NAME" =>  "Tala",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  818,
+    "NAME" =>  "Adamdighi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  819,
+    "NAME" =>  "Bogra Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  820,
+    "NAME" =>  "Dhunot",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  821,
+    "NAME" =>  "Dhubchanchia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  822,
+    "NAME" =>  "Gabtali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  823,
+    "NAME" =>  "Kahaloo",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  824,
+    "NAME" =>  "Nandigram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  825,
+    "NAME" =>  "Sariakandi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  826,
+    "NAME" =>  "Sherpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  827,
+    "NAME" =>  "Shibganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  828,
+    "NAME" =>  "Sonatola",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  829,
+    "NAME" =>  "Shajahanpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  830,
+    "NAME" =>  "Bholahat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  831,
+    "NAME" =>  "Gomastapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  832,
+    "NAME" =>  "Nachole",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  833,
+    "NAME" =>  "Nawabganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  834,
+    "NAME" =>  "Shipganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  835,
+    "NAME" =>  "Akkelpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  836,
+    "NAME" =>  "Joypurhat Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  837,
+    "NAME" =>  "Kalai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  838,
+    "NAME" =>  "Khetlal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  839,
+    "NAME" =>  "Panchbibi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  840,
+    "NAME" =>  "Atrai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  841,
+    "NAME" =>  "Badalgachi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  842,
+    "NAME" =>  "Dhamoirhat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  843,
+    "NAME" =>  "Manda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  844,
+    "NAME" =>  "Mahadebpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  845,
+    "NAME" =>  "Naogaon Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  846,
+    "NAME" =>  "Niamatpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  847,
+    "NAME" =>  "Patnitala",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  848,
+    "NAME" =>  "Porsha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  849,
+    "NAME" =>  "Raninagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  850,
+    "NAME" =>  "Shapahar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  851,
+    "NAME" =>  "Baghatipara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  852,
+    "NAME" =>  "Baraigram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  853,
+    "NAME" =>  "Gurudaspur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  854,
+    "NAME" =>  "Lalpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  855,
+    "NAME" =>  "Natore Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  856,
+    "NAME" =>  "Singra",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  857,
+    "NAME" =>  "Atgharia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  858,
+    "NAME" =>  "Bera",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  859,
+    "NAME" =>  "Bhangura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  860,
+    "NAME" =>  "Chatmohar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  861,
+    "NAME" =>  "Faridpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  862,
+    "NAME" =>  "Iswardi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  863,
+    "NAME" =>  "Pabna Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  864,
+    "NAME" =>  "Santhia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  865,
+    "NAME" =>  "Sujanagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  866,
+    "NAME" =>  "Bagha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  867,
+    "NAME" =>  "Bagmara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  868,
+    "NAME" =>  "Charghat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  869,
+    "NAME" =>  "Durgapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  870,
+    "NAME" =>  "Godagari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  871,
+    "NAME" =>  "Mohanpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  872,
+    "NAME" =>  "Paba",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  873,
+    "NAME" =>  "Putia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  874,
+    "NAME" =>  "Tanore",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  875,
+    "NAME" =>  "Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  876,
+    "NAME" =>  "Belkuchi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  877,
+    "NAME" =>  "Chowhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  878,
+    "NAME" =>  "Kamarkhanda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  879,
+    "NAME" =>  "Kazipur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  880,
+    "NAME" =>  "Raiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  881,
+    "NAME" =>  "Shahajadpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  882,
+    "NAME" =>  "Sirajganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  883,
+    "NAME" =>  "Tarash",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  884,
+    "NAME" =>  "Ullapara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  885,
+    "NAME" =>  "Ajmeriganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  886,
+    "NAME" =>  "Bahubal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  887,
+    "NAME" =>  "Baniachang",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  888,
+    "NAME" =>  "Chunarughat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  889,
+    "NAME" =>  "Habiganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  890,
+    "NAME" =>  "Lakhai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  891,
+    "NAME" =>  "Madhabpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  892,
+    "NAME" =>  "Nabiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  893,
+    "NAME" =>  "Barlekha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  894,
+    "NAME" =>  "Kamalganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  895,
+    "NAME" =>  "Kulaura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  896,
+    "NAME" =>  "Moulvibazar Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  897,
+    "NAME" =>  "Rajnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  898,
+    "NAME" =>  "Sreemongal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  899,
+    "NAME" =>  "Juri",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  900,
+    "NAME" =>  "Biswambharpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  901,
+    "NAME" =>  "Chattak",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  902,
+    "NAME" =>  "Derai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  903,
+    "NAME" =>  "Dharmapasha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  904,
+    "NAME" =>  "Dowarabazar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  905,
+    "NAME" =>  "Jagannathpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  906,
+    "NAME" =>  "Jamalganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  907,
+    "NAME" =>  "Sulla",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  908,
+    "NAME" =>  "Sunamganj Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  909,
+    "NAME" =>  "Taherpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  910,
+    "NAME" =>  "South Sunamganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  911,
+    "NAME" =>  "Balaganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  912,
+    "NAME" =>  "Beanibazar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  913,
+    "NAME" =>  "Biswanath",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  914,
+    "NAME" =>  "Companyganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  915,
+    "NAME" =>  "Fenchuganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  916,
+    "NAME" =>  "Gowainghat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  917,
+    "NAME" =>  "Golapganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  918,
+    "NAME" =>  "Jaintapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  919,
+    "NAME" =>  "Zakiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  920,
+    "NAME" =>  "Kanaighat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  921,
+    "NAME" =>  "Sylhet Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  922,
+    "NAME" =>  "South Surma",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  923,
+    "NAME" =>  "Amtali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  924,
+    "NAME" =>  "Bamna",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  925,
+    "NAME" =>  "Barguna Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  926,
+    "NAME" =>  "Betagi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  927,
+    "NAME" =>  "Patharghata",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  928,
+    "NAME" =>  "Agailjhara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  929,
+    "NAME" =>  "Babuganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  930,
+    "NAME" =>  "Bakerganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  931,
+    "NAME" =>  "Banaripara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  932,
+    "NAME" =>  "Barisal Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  933,
+    "NAME" =>  "Gournadi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  934,
+    "NAME" =>  "Hijla",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  935,
+    "NAME" =>  "Mehendiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  936,
+    "NAME" =>  "Muladi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  937,
+    "NAME" =>  "Wazirpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  938,
+    "NAME" =>  "Bhola Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  939,
+    "NAME" =>  "Borhanuddin",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  940,
+    "NAME" =>  "Charfession",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  941,
+    "NAME" =>  "Daulatkhan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  942,
+    "NAME" =>  "Lalmohan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  943,
+    "NAME" =>  "Manpura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  944,
+    "NAME" =>  "Tajumuddin",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  945,
+    "NAME" =>  "Jhalokathi Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  946,
+    "NAME" =>  "Kathalia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  947,
+    "NAME" =>  "Nalchiti",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  948,
+    "NAME" =>  "Rajapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  949,
+    "NAME" =>  "Bauphal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  950,
+    "NAME" =>  "Dasmina",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  951,
+    "NAME" =>  "Dumki",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  952,
+    "NAME" =>  "Galachipa",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  953,
+    "NAME" =>  "Kalapara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  954,
+    "NAME" =>  "Mirjaganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  955,
+    "NAME" =>  "Patuakhali Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  956,
+    "NAME" =>  "Bhandaria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  957,
+    "NAME" =>  "Kaukhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  958,
+    "NAME" =>  "Mothbaria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  959,
+    "NAME" =>  "Nesarabad (Shawrupkathi)",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  960,
+    "NAME" =>  "Nazirpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  961,
+    "NAME" =>  "Perojpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  962,
+    "NAME" =>  "Zia Nagar (Indurkani)",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  963,
+    "NAME" =>  "Ali Kadam",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  964,
+    "NAME" =>  "Bandarban Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  965,
+    "NAME" =>  "Lama",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  966,
+    "NAME" =>  "Nakhoyngchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  967,
+    "NAME" =>  "Rawanchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  968,
+    "NAME" =>  "Ruma",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  969,
+    "NAME" =>  "Thanchi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  970,
+    "NAME" =>  "Akhaura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  971,
+    "NAME" =>  "Ashuganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  972,
+    "NAME" =>  "Bancharampur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  973,
+    "NAME" =>  "Brahmanbaria Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  974,
+    "NAME" =>  "Kashba",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  975,
+    "NAME" =>  "Nabinagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  976,
+    "NAME" =>  "Nasirnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  977,
+    "NAME" =>  "Sarail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  978,
+    "NAME" =>  "Chandpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  979,
+    "NAME" =>  "Faridganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  980,
+    "NAME" =>  "Haimchar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  981,
+    "NAME" =>  "Hajiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  982,
+    "NAME" =>  "Kachua",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  983,
+    "NAME" =>  "Matlab (South)",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  984,
+    "NAME" =>  "Matlab (North)(Chengarchar)",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  985,
+    "NAME" =>  "Shahrasti",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  986,
+    "NAME" =>  "Anwara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  987,
+    "NAME" =>  "Banshkhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  988,
+    "NAME" =>  "Boalkhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  989,
+    "NAME" =>  "Chandanaish",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  990,
+    "NAME" =>  "Fatikchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  991,
+    "NAME" =>  "Hathazari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  992,
+    "NAME" =>  "Lohagara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  993,
+    "NAME" =>  "Mirsarai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  994,
+    "NAME" =>  "Patiya",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  995,
+    "NAME" =>  "Rangunia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  996,
+    "NAME" =>  "Raujan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  997,
+    "NAME" =>  "Sandwip",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  998,
+    "NAME" =>  "Satkania",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  999,
+    "NAME" =>  "Sitakundu",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1000,
+    "NAME" =>  "Barura",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1001,
+    "NAME" =>  "Brahmanpara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1002,
+    "NAME" =>  "Burichang",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1003,
+    "NAME" =>  "Chandina",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1004,
+    "NAME" =>  "Chowddagram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1005,
+    "NAME" =>  "Comilla Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1006,
+    "NAME" =>  "Daudkandi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1007,
+    "NAME" =>  "Debiduar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1008,
+    "NAME" =>  "Homna",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1009,
+    "NAME" =>  "Laksam",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1010,
+    "NAME" =>  "Meghna",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1011,
+    "NAME" =>  "Muradnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1012,
+    "NAME" =>  "Nangolkot",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1013,
+    "NAME" =>  "Titas",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1014,
+    "NAME" =>  "Monoharganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1015,
+    "NAME" =>  "Comilla Sadar South",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1016,
+    "NAME" =>  "Chakoria",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1017,
+    "NAME" =>  "Cox's Bazar Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1018,
+    "NAME" =>  "Kutubdia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1019,
+    "NAME" =>  "Moheshkhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1020,
+    "NAME" =>  "Pekua",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1021,
+    "NAME" =>  "Ramu",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1022,
+    "NAME" =>  "Teknaf",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1023,
+    "NAME" =>  "Ukhia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1024,
+    "NAME" =>  "Chagalnayya",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1025,
+    "NAME" =>  "Daganbhuiyan",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1026,
+    "NAME" =>  "Feni Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1027,
+    "NAME" =>  "Parshuram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1028,
+    "NAME" =>  "Fulgazi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1029,
+    "NAME" =>  "Sonagazi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1030,
+    "NAME" =>  "Dighinala",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1031,
+    "NAME" =>  "Khagrachari Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1032,
+    "NAME" =>  "Laksmichari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1033,
+    "NAME" =>  "Mohalchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1034,
+    "NAME" =>  "Manikchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1035,
+    "NAME" =>  "Matiranga",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1036,
+    "NAME" =>  "Panchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1037,
+    "NAME" =>  "Ramgor",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1038,
+    "NAME" =>  "Laksmipur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1039,
+    "NAME" =>  "Ramgati",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1040,
+    "NAME" =>  "Ramganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1041,
+    "NAME" =>  "Raipur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1042,
+    "NAME" =>  "Kamalnagar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1043,
+    "NAME" =>  "Begumganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1044,
+    "NAME" =>  "Chatkhil",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1045,
+    "NAME" =>  "Companiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1046,
+    "NAME" =>  "Hatiya",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1047,
+    "NAME" =>  "Noakhali Sadar(Sudharam)",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1048,
+    "NAME" =>  "Senbag",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1049,
+    "NAME" =>  "Sonaimuri",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1050,
+    "NAME" =>  "Subarnachar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1051,
+    "NAME" =>  "Kabir Hat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1052,
+    "NAME" =>  "Baghaichari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1053,
+    "NAME" =>  "Barkal",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1054,
+    "NAME" =>  "Belaichari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1055,
+    "NAME" =>  "Jurachari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1056,
+    "NAME" =>  "Kaptai",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1057,
+    "NAME" =>  "Kawkhali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1058,
+    "NAME" =>  "Langadu",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1059,
+    "NAME" =>  "Naniarchar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1060,
+    "NAME" =>  "Rajasthali",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1061,
+    "NAME" =>  "Rangamati Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1062,
+    "NAME" =>  "Birampur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1063,
+    "NAME" =>  "Birganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1064,
+    "NAME" =>  "Birol",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1065,
+    "NAME" =>  "Bochaganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1066,
+    "NAME" =>  "Chirirbandar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1067,
+    "NAME" =>  "Dinajpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1068,
+    "NAME" =>  "Phulbari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1069,
+    "NAME" =>  "Ghoraghat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1070,
+    "NAME" =>  "Hakimpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1071,
+    "NAME" =>  "Kaharole",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1072,
+    "NAME" =>  "Khanshama",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1073,
+    "NAME" =>  "Nawabganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1074,
+    "NAME" =>  "Parbatipur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1075,
+    "NAME" =>  "Fulchari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1076,
+    "NAME" =>  "Gaibandha Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1077,
+    "NAME" =>  "Gobindaganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1078,
+    "NAME" =>  "Palashbari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1079,
+    "NAME" =>  "Sadullapur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1080,
+    "NAME" =>  "Shaghatta",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1081,
+    "NAME" =>  "Sundarganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1082,
+    "NAME" =>  "Bhurungamari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1083,
+    "NAME" =>  "Chilmary",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1084,
+    "NAME" =>  "Fulbari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1085,
+    "NAME" =>  "Kurigram Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1086,
+    "NAME" =>  "Nageswari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1087,
+    "NAME" =>  "Rajarhat",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1088,
+    "NAME" =>  "Rajibpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1089,
+    "NAME" =>  "Rowmari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1090,
+    "NAME" =>  "Ulipur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1091,
+    "NAME" =>  "Aditmari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1092,
+    "NAME" =>  "Hatibandha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1093,
+    "NAME" =>  "Kaliganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1094,
+    "NAME" =>  "Lalmonirhat Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1095,
+    "NAME" =>  "Patgram",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1096,
+    "NAME" =>  "Dimla",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1097,
+    "NAME" =>  "Domar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1098,
+    "NAME" =>  "Jaldhaka",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1099,
+    "NAME" =>  "Kishoreganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1100,
+    "NAME" =>  "Nilphamari Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1101,
+    "NAME" =>  "Saidpur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1102,
+    "NAME" =>  "Atwari",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1103,
+    "NAME" =>  "Boda",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1104,
+    "NAME" =>  "Debiganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1105,
+    "NAME" =>  "Panchagarh Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1106,
+    "NAME" =>  "Tetulia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1107,
+    "NAME" =>  "Badarganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1108,
+    "NAME" =>  "Gangachara",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1109,
+    "NAME" =>  "Kaunia",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1110,
+    "NAME" =>  "Mithapukur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1111,
+    "NAME" =>  "Pirgacha",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1112,
+    "NAME" =>  "Pirganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1113,
+    "NAME" =>  "Rangpur Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1114,
+    "NAME" =>  "Taraganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1115,
+    "NAME" =>  "Baliadangi",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1116,
+    "NAME" =>  "Haripur",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1117,
+    "NAME" =>  "Pirganj",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1118,
+    "NAME" =>  "Ranishankail",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1119,
+    "NAME" =>  "Thakurgaon Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1120,
+    "NAME" =>  "Khulna Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1121,
+    "NAME" =>  "Rajshahi Shadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1122,
+    "NAME" =>  "Chittagong Sadar",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1123,
+    "NAME" =>  "Siddhirganj",
+    "NAME_BN" =>  "সিদ্ধিরগঞ্জ",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  1124,
+    "NAME" =>  "Fatullah",
+    "NAME_BN" =>  "ফতুল্লা",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  1125,
+    "NAME" =>  "Kalatia",
+    "NAME_BN" =>  "কলাতিয়া",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  1126,
+    "NAME" =>  "Chapai Nawabganj Sadar",
+    "NAME_BN" =>  "চাঁপাইনবাবগঞ্জ সদর",
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ],
+    [
+    "ID" =>  1127,
+    "NAME" =>  "Baipayl",
+    "NAME_BN" =>  "বাইপাইল",
+    "ZONE_ID" =>  2,
+    "ZONE_NAME" =>  "Dhaka Suburbs"
+    ],
+    [
+    "ID" =>  1128,
+    "NAME" =>  "Manda",
+    "NAME_BN" =>  "মান্ডা",
+    "ZONE_ID" =>  1,
+    "ZONE_NAME" =>  "Dhaka City"
+    ],
+    [
+    "ID" =>  1129,
+    "NAME" =>  "Benapole",
+    "NAME_BN" =>  null,
+    "ZONE_ID" =>  7,
+    "ZONE_NAME" =>  "Outside Dhaka"
+    ]
+];
